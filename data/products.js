@@ -11,7 +11,7 @@ const products = [
     keywords: [
       "socks",
       "sports",
-      "apparel"
+      "apparel"lkdslkdsflkjasdlkj
     ]
   },
   {
